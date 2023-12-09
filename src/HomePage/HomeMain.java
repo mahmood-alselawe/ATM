@@ -5,7 +5,6 @@ import java.util.Scanner;
 
 public class HomeMain {
 
-
     public static void main(String[] args) {
 
         // her use scanner to allow to user interact with program
